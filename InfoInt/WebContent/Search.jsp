@@ -22,7 +22,7 @@
 		<div class="headline">
 			<h2>Search Result for <i><%= request.getParameter("search") %></i></h2>
 		</div>
-	
+	================================= added by moataz
 		<div class="result">
 			<table class="resultTable">
 			<% 	if(resultList.isEmpty()) {
